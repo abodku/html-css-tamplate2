@@ -958,9 +958,6 @@ right: 30px;
   margin: 20px 0 ;
   border: 1px solid white;
 }
-.tail .email [type='email'] {
-  border-right: none;
-} 
 .tail .email::before {
   font-family: 'Font Awesome 5 Free';
   content: "\40";
